@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="設定文書" language="ja" table="x_522381_test_u_com_app_recept_setting">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>設定文書</label>
+            <language>ja</language>
+            <name>x_522381_test_u_com_app_recept_setting</name>
+            <plural>設定文書s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-04 00:41:40</sys_created_on>
+            <sys_id>e8c248632f929010c223ffecf699b63b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>設定文書</sys_name>
+            <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+            <sys_update_name>sys_documentation_x_522381_test_u_com_app_recept_setting__ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-04 00:41:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

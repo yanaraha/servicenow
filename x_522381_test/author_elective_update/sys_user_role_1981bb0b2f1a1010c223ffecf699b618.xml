@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_522381_test.work_dept</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>work_dept</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 04:47:59</sys_created_on>
+        <sys_id>1981bb0b2f1a1010c223ffecf699b618</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_522381_test.work_dept</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_update_name>sys_user_role_1981bb0b2f1a1010c223ffecf699b618</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 04:47:59</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="test">a84f2b872f1a1010c223ffecf699b67b</application>
+        <file_path/>
+        <instance_id>f006fcd1db9fc49452dd2f17d496197d</instance_id>
+        <instance_name>dev101811</instance_name>
+        <name>sys_user_role_1981bb0b2f1a1010c223ffecf699b618</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_522381_test.work_dept</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>work_dept</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-03 04:47:59</sys_created_on><sys_id>1981bb0b2f1a1010c223ffecf699b618</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_522381_test.work_dept</sys_name><sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package><sys_policy/><sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope><sys_update_name>sys_user_role_1981bb0b2f1a1010c223ffecf699b618</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-03 04:47:59</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1847469633</payload_hash>
+        <record_name>x_522381_test.work_dept</record_name>
+        <reverted_from/>
+        <source>46f0bb0b2f1a1010c223ffecf699b694</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 04:47:59</sys_created_on>
+        <sys_id>cf81730b2f1a1010c223ffecf699b607</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173b2a5d7f90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 04:47:59</sys_updated_on>
+        <type>Role</type>
+        <update_guid>0b81730ba11a1010030b4fe9e3304c07</update_guid>
+        <update_guid_history>0b81730ba11a1010030b4fe9e3304c07:-1847469633</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_522381_test.work_dept">1bbb77032f5a1010c223ffecf699b6ec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 05:32:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>1356a00a03c941cea4ccc232104edc24</sys_id>
+        <sys_metadata>1981bb0b2f1a1010c223ffecf699b618</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_522381_test.work_dept</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_scope_delete display_value="">2088755887f04bd48581b65e33c5a710</sys_scope_delete>
+        <sys_update_name>sys_user_role_1981bb0b2f1a1010c223ffecf699b618</sys_update_name>
+        <sys_update_version display_value="sys_user_role_1981bb0b2f1a1010c223ffecf699b618">cf81730b2f1a1010c223ffecf699b607</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 05:32:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

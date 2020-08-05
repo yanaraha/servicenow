@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>承認待ち</label>
+        <language>ja</language>
+        <name>wf_stage</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 04:19:28</sys_created_on>
+        <sys_id>0f94bc232f169010c223ffecf699b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>承認待ち</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_update_name>sys_translated_0f94bc232f169010c223ffecf699b683</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 04:19:28</sys_updated_on>
+        <value>承認待ち</value>
+    </sys_translated>
+</record_update>

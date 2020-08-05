@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="設定文書" max_length="40" name="x_522381_test_u_com_app_recept_setting" sizeclass="0" type="collection">
+        <element label="死亡保険金限度額" max_length="40" name="u_bene_limit_amt" type="integer"/>
+        <element label="年金限度額" max_length="40" name="u_pens_limit_amt" type="integer"/>
+        <element label="申込理由" max_length="1000" name="u_request_reason" type="string"/>
+    </element>
+</database>

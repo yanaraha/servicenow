@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>契約申込受付</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>契約申込受付</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="タスク" name="Task">054f8b872f121010c223ffecf699b687</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 00:39:15</sys_created_on>
+        <sys_id>453280632f929010c223ffecf699b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>契約申込受付</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_update_name>sys_wizard_answer_453280632f929010c223ffecf699b6d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 00:39:15</sys_updated_on>
+        <table/>
+        <target_url>x_522381_test_u_com_app_recept.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

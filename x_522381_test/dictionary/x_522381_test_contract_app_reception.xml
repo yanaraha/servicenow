@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Contract App Reception" max_length="40" name="x_522381_test_contract_app_reception" sizeclass="0" type="collection"/>
+</database>

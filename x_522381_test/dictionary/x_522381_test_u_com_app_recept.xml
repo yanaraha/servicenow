@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="契約申込受付" max_length="40" name="x_522381_test_u_com_app_recept" sizeclass="2" type="collection">
+        <element label="申請者所属" max_length="32" name="u_applicant_department" reference="cmn_department" type="reference"/>
+        <element label="申請者" max_length="32" name="u_applicant_id" reference="sys_user" type="reference"/>
+        <element label="承認者所属" max_length="32" name="u_assigned_department" reference="cmn_department" type="reference"/>
+        <element label="承認者" max_length="32" name="u_assigned_to" reference="sys_user" type="reference"/>
+        <element label="死亡保険金" max_length="40" name="u_bene_amt" type="integer"/>
+        <element label="保険金受取人" max_length="40" name="u_bene_recept" type="string"/>
+        <element choice="1" label="契約種類" max_length="40" name="u_contract_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="insurance" sequence="1" value="ins"/>
+                <element inactive_on_update="false" label="保険" language="ja" sequence="1" value="ins"/>
+                <element inactive_on_update="false" label="annuity" sequence="2" value="ann"/>
+                <element inactive_on_update="false" label="年金" language="ja" sequence="2" value="ann"/>
+            </choice>
+        </element>
+        <element label="被保険者" max_length="40" name="u_insured" type="string"/>
+        <element label="年金年額" max_length="40" name="u_pens_amt" type="integer"/>
+        <element label="年金受取人" max_length="40" name="u_pens_recept" type="string"/>
+        <element choice="1" label="申込理由" max_length="40" name="u_request_reason" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="ステータス" max_length="40" name="u_status_display" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="draft" sequence="1" value="10"/>
+                <element inactive_on_update="false" label="作成中" language="ja" sequence="1" value="10"/>
+                <element inactive_on_update="false" label="waiting approval" sequence="2" value="20"/>
+                <element inactive_on_update="false" label="承認待ち" language="ja" sequence="2" value="20"/>
+                <element inactive_on_update="false" label="in work" sequence="3" value="30"/>
+                <element inactive_on_update="false" label="作業中" language="ja" sequence="3" value="30"/>
+                <element inactive_on_update="false" label="completed" sequence="4" value="90"/>
+                <element inactive_on_update="false" label="完了" language="ja" sequence="4" value="90"/>
+                <element inactive_on_update="false" label="rejected" sequence="5" value="40"/>
+                <element inactive_on_update="false" label="否認" language="ja" sequence="5" value="40"/>
+            </choice>
+        </element>
+        <element label="作業者" max_length="4000" name="u_worker_list" reference="sys_user" type="glide_list"/>
+    </element>
+</database>

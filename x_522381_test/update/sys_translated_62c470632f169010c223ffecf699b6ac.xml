@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>完了</label>
+        <language>ja</language>
+        <name>wf_stage</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 04:20:15</sys_created_on>
+        <sys_id>62c470632f169010c223ffecf699b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>完了</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_update_name>sys_translated_62c470632f169010c223ffecf699b6ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 04:20:15</sys_updated_on>
+        <value>完了</value>
+    </sys_translated>
+</record_update>

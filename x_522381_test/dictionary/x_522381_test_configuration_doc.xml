@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Configuration Doc" max_length="40" name="x_522381_test_configuration_doc" sizeclass="0" type="collection">
+        <element label="Request Reason" max_length="100" name="request_reason" type="string"/>
+    </element>
+</database>

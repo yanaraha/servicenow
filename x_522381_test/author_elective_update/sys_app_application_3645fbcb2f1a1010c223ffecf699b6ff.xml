@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Contract App Reception</name>
+        <order>100</order>
+        <roles>x_522381_test.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 05:04:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3645fbcb2f1a1010c223ffecf699b6ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contract App Reception</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_update_name>sys_app_application_3645fbcb2f1a1010c223ffecf699b6ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 05:04:22</sys_updated_on>
+        <title>Contract App Reception</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="test">a84f2b872f1a1010c223ffecf699b67b</application>
+        <file_path/>
+        <instance_id>f006fcd1db9fc49452dd2f17d496197d</instance_id>
+        <instance_name>dev101811</instance_name>
+        <name>sys_app_application_3645fbcb2f1a1010c223ffecf699b6ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Contract App Reception</name><order>100</order><roles>x_522381_test.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-03 05:04:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3645fbcb2f1a1010c223ffecf699b6ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contract App Reception</sys_name><sys_overrides/><sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package><sys_policy/><sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope><sys_update_name>sys_app_application_3645fbcb2f1a1010c223ffecf699b6ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-03 05:04:22</sys_updated_on><title>Contract App Reception</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>106390340</payload_hash>
+        <record_name>Contract App Reception</record_name>
+        <reverted_from/>
+        <source>46f0bb0b2f1a1010c223ffecf699b694</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 05:04:22</sys_created_on>
+        <sys_id>07453fcb2f1a1010c223ffecf699b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173b2b4d5040000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 05:04:22</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>4f453fcb021a1010e833ff96ded2e901</update_guid>
+        <update_guid_history>4f453fcb021a1010e833ff96ded2e901:106390340</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Contract App Reception">327b33032f5a1010c223ffecf699b645</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 05:31:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>1a6205f35c9f4748a52fed548503ff10</sys_id>
+        <sys_metadata>3645fbcb2f1a1010c223ffecf699b6ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contract App Reception</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_scope_delete display_value="">2088755887f04bd48581b65e33c5a710</sys_scope_delete>
+        <sys_update_name>sys_app_application_3645fbcb2f1a1010c223ffecf699b6ff</sys_update_name>
+        <sys_update_version display_value="sys_app_application_3645fbcb2f1a1010c223ffecf699b6ff">07453fcb2f1a1010c223ffecf699b602</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 05:31:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
