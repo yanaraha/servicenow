@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_522381_test_sn_test</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 01:46:44</sys_created_on>
+        <sys_id>ab3b59bf2f9e9010c223ffecf699b65c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_522381_test_sn_test</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_ab3b59bf2f9e9010c223ffecf699b65c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 01:46:44</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="test">a84f2b872f1a1010c223ffecf699b67b</application>
+        <file_path/>
+        <instance_id>f006fcd1db9fc49452dd2f17d496197d</instance_id>
+        <instance_name>dev101811</instance_name>
+        <name>ua_table_licensing_config_ab3b59bf2f9e9010c223ffecf699b65c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_522381_test_sn_test</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-05 01:46:44</sys_created_on><sys_id>ab3b59bf2f9e9010c223ffecf699b65c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_522381_test_sn_test</sys_name><sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package><sys_policy/><sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope><sys_update_name>ua_table_licensing_config_ab3b59bf2f9e9010c223ffecf699b65c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-05 01:46:44</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>1918433789</payload_hash>
+        <record_name>x_522381_test_sn_test</record_name>
+        <reverted_from/>
+        <source>46f0bb0b2f1a1010c223ffecf699b694</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 01:46:44</sys_created_on>
+        <sys_id>ab3b59bf2f9e9010c223ffecf699b65e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173bc4c9e8a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 01:46:44</sys_updated_on>
+        <type>テーブル登録構成</type>
+        <update_guid>e33b59bfd79e9010dde1c82871338d5e</update_guid>
+        <update_guid_history>e33b59bfd79e9010dde1c82871338d5e:1918433789</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 01:55:08</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>1495831afbd54c5c8818fb5c6f995c51</sys_id>
+        <sys_metadata>ab3b59bf2f9e9010c223ffecf699b65c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_522381_test_sn_test</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_scope_delete display_value="">2088755887f04bd48581b65e33c5a710</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_ab3b59bf2f9e9010c223ffecf699b65c</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_ab3b59bf2f9e9010c223ffecf699b65c">ab3b59bf2f9e9010c223ffecf699b65e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 01:55:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>SN_test</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>SN_test</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="タスク" name="Task">054f8b872f121010c223ffecf699b687</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 01:46:44</sys_created_on>
+        <sys_id>a73b59bf2f9e9010c223ffecf699b644</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SN_test</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_update_name>sys_wizard_answer_a73b59bf2f9e9010c223ffecf699b644</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 01:46:44</sys_updated_on>
+        <table/>
+        <target_url>x_522381_test_sn_test.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="test">a84f2b872f1a1010c223ffecf699b67b</application>
+        <file_path/>
+        <instance_id>f006fcd1db9fc49452dd2f17d496197d</instance_id>
+        <instance_name>dev101811</instance_name>
+        <name>sys_wizard_answer_a73b59bf2f9e9010c223ffecf699b644</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>SN_test</answer><button_label/><dependent_value/><element/><name>SN_test</name><next_question/><order>100</order><payload_name/><question display_value="タスク" name="Task">054f8b872f121010c223ffecf699b687</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-05 01:46:44</sys_created_on><sys_id>a73b59bf2f9e9010c223ffecf699b644</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SN_test</sys_name><sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package><sys_policy/><sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope><sys_update_name>sys_wizard_answer_a73b59bf2f9e9010c223ffecf699b644</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-05 01:46:44</sys_updated_on><table/><target_url>x_522381_test_sn_test.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1652538329</payload_hash>
+        <record_name>SN_test</record_name>
+        <reverted_from/>
+        <source>05ac93032f121010c223ffecf699b643</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-08-03 03:16:38</sys_created_on>
+        <sys_id>f62d5dff2f9e9010c223ffecf699b644</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>173b25231f00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>回答</type>
+        <update_guid>b62d5dff8c9e90109bc2dfcd4e6d5644</update_guid>
+        <update_guid_history>b62d5dff8c9e90109bc2dfcd4e6d5644:1652538329</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 01:55:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>179a5bae0d03444e96b189934ba0d9e4</sys_id>
+        <sys_metadata>a73b59bf2f9e9010c223ffecf699b644</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SN_test</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_parent display_value="Task">054f8b872f121010c223ffecf699b687</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_scope_delete display_value="">2088755887f04bd48581b65e33c5a710</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_a73b59bf2f9e9010c223ffecf699b644</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_a73b59bf2f9e9010c223ffecf699b644">f62d5dff2f9e9010c223ffecf699b644</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 01:55:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

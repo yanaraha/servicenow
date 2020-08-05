@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="SN_test">1b3b59bf2f9e9010c223ffecf699b60f</application>
+        <filter/>
+        <name>SN_tests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_522381_test.sn_test_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 01:46:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df3b59bf2f9e9010c223ffecf699b611</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SN_tests</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_update_name>sys_ui_module_df3b59bf2f9e9010c223ffecf699b611</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 01:46:43</sys_updated_on>
+        <table>x_522381_test_sn_test</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="test">a84f2b872f1a1010c223ffecf699b67b</application>
+        <file_path/>
+        <instance_id>f006fcd1db9fc49452dd2f17d496197d</instance_id>
+        <instance_name>dev101811</instance_name>
+        <name>sys_ui_module_df3b59bf2f9e9010c223ffecf699b611</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="SN_test">1b3b59bf2f9e9010c223ffecf699b60f</application><filter/><name>SN_tests</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_522381_test.sn_test_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-05 01:46:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>df3b59bf2f9e9010c223ffecf699b611</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SN_tests</sys_name><sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package><sys_policy/><sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope><sys_update_name>sys_ui_module_df3b59bf2f9e9010c223ffecf699b611</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-05 01:46:43</sys_updated_on><table>x_522381_test_sn_test</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1270693125</payload_hash>
+        <record_name>SN_tests</record_name>
+        <reverted_from/>
+        <source>46f0bb0b2f1a1010c223ffecf699b694</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 01:46:43</sys_created_on>
+        <sys_id>173b59bf2f9e9010c223ffecf699b614</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173bc4c9a430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 01:46:43</sys_updated_on>
+        <type>モジュール</type>
+        <update_guid>5f3b59bfda9e90108f09ef94f09d1313</update_guid>
+        <update_guid_history>5f3b59bfda9e90108f09ef94f09d1313:-1270693125</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 01:55:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>1b218f51881449388c3e4b001a616404</sys_id>
+        <sys_metadata>df3b59bf2f9e9010c223ffecf699b611</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SN_tests</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_scope_delete display_value="">2088755887f04bd48581b65e33c5a710</sys_scope_delete>
+        <sys_update_name>sys_ui_module_df3b59bf2f9e9010c223ffecf699b611</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_df3b59bf2f9e9010c223ffecf699b611">173b59bf2f9e9010c223ffecf699b614</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 01:55:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

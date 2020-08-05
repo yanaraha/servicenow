@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 07:39:29</sys_created_on>
+        <sys_id>7efbe2bf2f52d010c223ffecf699b6b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_522381_test_jenkins.x_522381_test.jenkins_user</sys_name>
+        <sys_package display_value="test" source="x_522381_test">a84f2b872f1a1010c223ffecf699b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">a84f2b872f1a1010c223ffecf699b67b</sys_scope>
+        <sys_security_acl display_value="x_522381_test_jenkins">fefbe2bf2f52d010c223ffecf699b6ad</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7efbe2bf2f52d010c223ffecf699b6b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 07:39:29</sys_updated_on>
+        <sys_user_role display_value="x_522381_test.jenkins_user" name="x_522381_test.jenkins_user">d6fb26732f52d010c223ffecf699b6c5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
